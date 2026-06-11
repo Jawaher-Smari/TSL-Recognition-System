@@ -16,9 +16,9 @@ Ce projet vise à combler ce vide en développant un système de reconnaissance 
 
 | Interface Mobile | Description |
 |---|---|
-| 📹 **Détection vidéo en temps réel** | Reconnaissance des signes LST en temps réel via la caméra |
-| 📖 **Dictionnaire** | Consultation des 69 signes avec images/vidéos et traductions en arabe dialectal |
-| 🎮 **Jeu éducatif** | Quiz interactif pour apprendre la LST de manière ludique |
+| **Détection vidéo en temps réel** | Reconnaissance des signes LST en temps réel via la caméra |
+| **Dictionnaire** | Consultation des 69 signes avec images/vidéos et traductions en arabe dialectal |
+| **Jeu éducatif** | Quiz interactif pour apprendre la LST de manière ludique |
 
 ---
 
